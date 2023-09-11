@@ -1,4 +1,4 @@
-<h1>👋 Hello there, I’m Vincley</h1>
+<h1>👋 Hello there, I’m Vincent</h1>
 
 - :student:Third year CS student
 - 👀 Data science and cloud computing enthusiast. Third year CS student who interest in working on technology especially AI, cloud architecture, data analytics, and software development.
